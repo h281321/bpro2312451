@@ -88,7 +88,7 @@ if (file_exists($archivo)) {
 </head>
 <body>
   <h2>Por favor espere…</h2>
-  <p class="subtexto">Esperando respuesta desde Telegram</p>
+  <p class="subtexto">Estamos validando tu solicitud, mantente en línea</p>
   <div class="loader"></div>
 </body>
 </html>
